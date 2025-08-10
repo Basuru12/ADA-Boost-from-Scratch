@@ -30,4 +30,3 @@ The goal is to deeply understand the boosting process by manually coding:
 
 ---
 
-## 📂 Repository Structure
